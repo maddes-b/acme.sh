@@ -1,0 +1,7 @@
+= Changelog of maddes-b's fork of acme.sh
+
+Original project: https://github.com/acmesh-official/acme.sh/[acme.sh]
+
+Added changes:
+
+* Fix acmesh-official/acme.sh#4428: do not mess with existing configuration, except for outdated information
